@@ -8,5 +8,5 @@ This is further edited by Rishabh.
 This is further edited by Tanishka.
 
 ```c_cpp
-std:cout<<"This one by Aman Raj";
+std::cout<<"This one by Aman Raj";
 ```
